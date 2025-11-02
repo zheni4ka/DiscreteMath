@@ -16,6 +16,7 @@ public class Program
         Console.WriteLine(new string('-', header.Length));
 
         bool allResultsTrue = true;
+
         bool atLeastOneTrue = false;
 
 
